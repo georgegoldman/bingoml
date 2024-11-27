@@ -1,5 +1,5 @@
-# Trash Talker
-Trash Talker is an AI-powered waste sorting app that makes it easy to identify recyclable and non-recyclable items. Just snap a picture of your waste, and Trash Talker quickly identifies its category and offers options for proper disposal. You can even earn rewards for recycling and arrange pickups with local recycling stations, all through the app!
+# BingoML
+Trash Talker is an AI-powered waste sorting app that makes it easy to identify recyclable and non-recyclable items. Just snap a picture of your waste, and BingoML quickly identifies its category and offers options for proper disposal. You can even earn rewards for recycling and arrange pickups with local recycling stations, all through the app!
 
 Features
 - **AI-Powered Waste Classification:** Upload a picture of your waste, and the app will classify it as glass, metal, paper, plastic, or non-recyclable items using machine learning.
